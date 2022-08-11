@@ -33,12 +33,14 @@ header {
 }
 
 .search::placeholder {
-  color:#b6b3b6
+  color:#b6b3b6;
+  
 }
 
 .search:focus {
   outline: none;
   background-color: var(--primary-color);
+  color:#42403e;
 }
 
 main {
