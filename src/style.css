@@ -66,3 +66,15 @@ main {
   padding: 0.5rem 1rem 1rem ;
   letter-spacing: 0.5px;
 }
+
+.movie-info h3 {
+  margin-top: 0;
+}
+
+.movie-info span {
+  background-color: var(--primary-color);
+  color: #a17ba1;
+  padding: 0.25rem 0.5rem;
+  border-radius: 30px;
+  font-weight: bold;
+}
