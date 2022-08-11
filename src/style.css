@@ -35,3 +35,8 @@ header {
 .search::placeholder {
   color:#a17ba1
 }
+
+.search:focus {
+  outline: none;
+  background-color: var(--primary-color);
+}
