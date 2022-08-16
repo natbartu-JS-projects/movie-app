@@ -4,7 +4,7 @@ const API_URL =
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
 
 const SEARCH_API =
-  'https://api.themoviedb.org/3/search/movie?api_key=d1582064c71bb723b7a5bc0d5bc7d5f8&query=" ';
+  "https://api.themoviedb.org/3/search/movie?api_key=d1582064c71bb723b7a5bc0d5bc7d5f8&query= ";
 
 const main = document.getElementById("main");
 const form = document.getElementById("form");
